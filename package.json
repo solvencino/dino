@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "nanotimer": "^0.3.15",
     "robotjs": "^0.6.0"
   }
 }
